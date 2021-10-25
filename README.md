@@ -6,7 +6,7 @@ To run the maps, first clone the package from source into a folder i.e. catkin_w
   
   cd catkin_ws/src
   
-  git clone 
+  git clone https://github.com/HParsons3/custom_maps.git
   
 Then run catkin_make in the root directory.
 
